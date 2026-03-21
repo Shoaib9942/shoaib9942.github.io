@@ -2,7 +2,7 @@
 title: Django, RDS, and AWS Lambda – Connection Pooling Explained
 date: 2026-03-15 00:00:00 +/-0000
 categories: [Databases, Connections, Django]
-tags: [Concept]     # TAG names should always be lowercase
+tags: [concept]     # TAG names should always be lowercase
 ---
 
 ## Connection Pooling with Django and AWS RDS
