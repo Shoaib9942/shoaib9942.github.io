@@ -72,7 +72,6 @@ This list is completely inspired by code from a GitHub repository by ashishps1. 
 - [Service Discovery](https://blog.algomaster.io/p/service-discovery-in-distributed-systems)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
