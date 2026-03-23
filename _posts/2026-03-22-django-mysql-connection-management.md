@@ -148,10 +148,10 @@ But this only helps for warm invocations. At high concurrency with rapid scale-o
 **Amazon RDS Proxy** sits between Lambda and RDS, maintaining a persistent, sized connection pool to the database:
 ```
 Lambda (thousands of envs)
-        ↓
-   RDS Proxy (pool: e.g., 20–100 connections)
-        ↓
-   RDS MySQL / Aurora
+    ↓
+RDS Proxy (pool: e.g., 20–100 connections)
+    ↓
+RDS MySQL / Aurora
 ```
 
 RDS Proxy multiplexes Lambda connections onto a far smaller set of actual database connections using **connection pinning** (for transactions) and **multiplexing** (for idle connections between statements). It also:
