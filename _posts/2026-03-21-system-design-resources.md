@@ -1,6 +1,6 @@
 ---
 title: System Design Resources
-date: 2026-03-21 00:00:00 +/-0000
+date: 2026-03-15 00:00:00 +/-0000
 categories: [System Design]
 tags: [system design, resources]     # TAG names should always be lowercase
 ---
@@ -191,5 +191,5 @@ This list is completely inspired by code from a GitHub repository by ashishps1. 
 ---
 
 <p align="center">
-  <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
+  <i>Thanks for reading! If you found this useful or have corrections/additions, feel free to reach out or drop a comment.</i>
 </p>

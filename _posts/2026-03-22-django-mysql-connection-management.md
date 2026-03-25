@@ -1,6 +1,6 @@
 ---
 title: Django & MySQL – Connection Management and Pooling
-date: 2026-03-15 00:00:00 +/-0000
+date: 2026-03-22 00:00:00 +/-0000
 categories: [Databases, Connections, Django]
 tags: [django, mysql, connection-pooling, rds, lambda, architecture]
 ---
@@ -205,6 +205,6 @@ This is the primary reason NoSQL is the default recommendation for serverless wo
 
 ---
 
-## Acknowledgements
-
-Thanks for reading! If you found this useful or have corrections/additions, feel free to reach out or drop a comment.
+<p align="center">
+  <i>Thanks for reading! If you found this useful or have corrections/additions, feel free to reach out or drop a comment.</i>
+</p>
