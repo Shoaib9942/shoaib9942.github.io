@@ -5,8 +5,6 @@ categories: [System Design, Distributed Systems]
 tags: [redis, caching, architecture]
 ---
 
-# Redis in System Design: Architecture, Trade-offs, and Failure Modes
-
 > *A deep dive into Redis internals, caching patterns, cluster mechanics, and production failure modes.*
 
 ---
