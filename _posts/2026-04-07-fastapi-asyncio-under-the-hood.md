@@ -1,8 +1,8 @@
 ---
 title: FastAPI, Asyncio, and Go - How Async I/O Really Works Under the Hood
 date: 2026-04-07 00:00:00 +/-0000
-categories: [Concurrency, Distributed Systems]
-tags: [python, fastapi, async, threads]
+categories: [FastAPI, Concurrency, Distributed Systems]
+tags: [python, asyncio, threads, fastapi]
 ---
 
 > A ground-up explanation of how modern web frameworks handle concurrency — using FastAPI, asyncio, and Go as the lens.
