@@ -1,5 +1,5 @@
 ---
-title: Threads, Async, and I/O - What Actually Happens Under the Hood
+title: FastAPI, Asyncio, and Go - How Async I/O Really Works Under the Hood
 date: 2026-04-07 00:00:00 +/-0000
 categories: [Concurrency, Distributed Systems]
 tags: [python, fastapi, async, threads]
