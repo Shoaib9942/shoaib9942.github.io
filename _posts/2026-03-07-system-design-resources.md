@@ -1,6 +1,6 @@
 ---
 title: System Design Resources
-date: 2026-03-15 00:00:00 +/-0000
+date: 2026-03-07 00:00:00 +/-0000
 categories: [System Design]
 tags: [system design, resources]     # TAG names should always be lowercase
 ---

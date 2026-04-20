@@ -1,6 +1,6 @@
 ---
 title: Redis in System Design - Architecture, Trade-offs, and Failure Modes
-date: 2026-03-25 00:00:00 +/-0000
+date: 2026-03-30 00:00:00 +/-0000
 categories: [System Design, Distributed Systems]
 tags: [redis, caching, architecture]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Django & MySQL – Connection Management and Pooling
-date: 2026-03-22 00:00:00 +/-0000
+date: 2026-03-15 00:00:00 +/-0000
 categories: [Databases, Connections, Django]
 tags: [django, mysql, connection-pooling, rds, lambda, architecture]
 ---
